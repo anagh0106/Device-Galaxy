@@ -1,0 +1,109 @@
+FEATURES:
+
+1. USERS
+
+   Signup Page =>
+      - First Name
+      - Last Name
+      - Username
+      - Email ID
+      - Password
+      - Confirm Password
+      - Agree to Terms & Conditions (Checkbox)
+      - Signup Button
+
+   Login Page =>
+      - Username
+      - Password
+      - "Forgot Password?" Link
+      - Login Button
+      - "Don't have an account? Signup" Link
+
+   Profile Page =>
+      - Profile Picture
+      - Username
+      - Email
+      - Order History
+      - Wishlist
+      - Address Book
+      - Change Password Option
+
+2. HOME PAGE
+   - All Categories Devices (e.g., Smartphones, Laptops, Accessories, etc.)
+   - Featured Products
+   - New Arrivals
+   - Trending Devices
+   - Popular Brands
+   - Search Bar
+   - Filter and Sorting Options (by price, brand, rating)
+   - Promotional Banners (e.g., discounts, new product launches)
+
+3. DEVICE CATEGORIES PAGE
+   - List of device categories (e.g., Smartphones, Laptops, Tablets, Accessories)
+   - Subcategories (e.g., by brand or feature)
+   - Product listings with:
+      - Device image
+      - Device name
+      - Short description
+      - Price
+      - Add to Cart Button
+      - Wishlist Button
+   - Pagination for browsing multiple products
+   - Product Filters (price range, brand, ratings, etc.)
+
+4. PRODUCT DETAILS PAGE
+   - Device images (with zoom and gallery view)
+   - Device name and brand
+   - Ratings and Reviews
+   - Price
+   - Technical Specifications
+   - Add to Cart Button
+   - Add to Wishlist Button
+   - Availability Status
+   - Related Products
+   - Review Section (with ability to post reviews if logged in)
+
+5. SHOPPING CART
+   - List of selected products
+   - Quantity adjustment options
+   - Price details
+   - Remove product option
+   - Proceed to Checkout Button
+
+6. CHECKOUT PAGE
+   - Shipping Address Form (if not already saved)
+   - Order Summary
+   - Payment Methods (Credit/Debit Card, Net Banking, Cash on Delivery, etc.)
+   - Apply Coupons/Discounts
+   - Confirm Order Button
+
+
+7. ADMIN PANEL
+   - Manage Categories (Add, Edit, Delete categories)
+   - Manage Products (Add, Edit, Delete products)
+   - Manage Orders (View, Process, Ship, Mark as Delivered)
+   - Manage Users (View user details, delete users, reset passwords)
+   - Analytics Dashboard (Sales stats, Most Sold Products, etc.)
+   - Promotional Management (add banners, promotions, discounts)
+
+8. WISHLIST
+   - Add devices to Wishlist for later purchase
+   - Manage and view saved devices
+   - Move items from Wishlist to cart
+
+9. SEARCH FUNCTIONALITY
+   - Search by product name, brand, or category
+   - Autocomplete suggestions
+   - Filter and sort search results
+
+10. CUSTOMER SUPPORT
+   - FAQ Section
+   - Contact Form (with email and phone number)
+   - Live Chat Support (optional)
+
+
+11. USER REVIEWS & RATINGS
+   - Users can post reviews and rate products
+   - Verified purchase badge for reviews
+   - Sorting reviews by rating, date
+
